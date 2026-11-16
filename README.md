@@ -1,3 +1,5 @@
+**English** · [Français](README.fr.md)
+
 # Relay for Android
 
 Native Android app (Kotlin, Jetpack Compose) for [Relay](https://github.com/overnite22/relay-server-prod), the self-hosted remote connection manager: inventory, credential vault, SSH, RDP and Proxmox consoles, paired with your server by QR code.
