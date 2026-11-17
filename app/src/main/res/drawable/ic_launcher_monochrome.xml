@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Dessin original de Relay (écran, invite de commande, relais entre deux nœuds), zone sûre de l'icône adaptative. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="1024" android:viewportHeight="1024">
+    <group android:pivotX="512" android:pivotY="512" android:scaleX="0.66" android:scaleY="0.66" android:translateY="-26">
+        <path android:pathData="M226,200H798A56,56 0 0 1 854,256V614A56,56 0 0 1 798,670H226A56,56 0 0 1 170,614V256A56,56 0 0 1 226,200Z"
+            android:strokeColor="#FFFFFFFF" android:strokeWidth="30" />
+        <path android:pathData="M270,330L380,420L270,510" android:strokeColor="#FFFFFFFF" android:strokeWidth="44"
+            android:strokeLineCap="round" android:strokeLineJoin="round" />
+        <path android:pathData="M430,510H600" android:strokeColor="#FFFFFFFF" android:strokeWidth="40" android:strokeLineCap="round" />
+        <path android:pathData="M452,670h120v70h-120z" android:fillColor="#FFFFFFFF" />
+        <path android:pathData="M352,730H672A22,22 0 0 1 672,774H352A22,22 0 0 1 352,730Z" android:fillColor="#FFFFFFFF" />
+        <path android:pathData="M251,860a9,9 0 1,0 18,0a9,9 0 1,0 -18,0M299,860a9,9 0 1,0 18,0a9,9 0 1,0 -18,0M347,860a9,9 0 1,0 18,0a9,9 0 1,0 -18,0M395,860a9,9 0 1,0 18,0a9,9 0 1,0 -18,0M443,860a9,9 0 1,0 18,0a9,9 0 1,0 -18,0M491,860a9,9 0 1,0 18,0a9,9 0 1,0 -18,0M539,860a9,9 0 1,0 18,0a9,9 0 1,0 -18,0M587,860a9,9 0 1,0 18,0a9,9 0 1,0 -18,0M635,860a9,9 0 1,0 18,0a9,9 0 1,0 -18,0M683,860a9,9 0 1,0 18,0a9,9 0 1,0 -18,0M731,860a9,9 0 1,0 18,0a9,9 0 1,0 -18,0" android:fillColor="#8CFFFFFF" />
+        <path android:pathData="M186,860a44,44 0 1,0 88,0a44,44 0 1,0 -88,0" android:fillColor="#FFFFFFFF" />
+        <path android:pathData="M750,860a44,44 0 1,0 88,0a44,44 0 1,0 -88,0" android:fillColor="#FFFFFFFF" />
+    </group>
+</vector>

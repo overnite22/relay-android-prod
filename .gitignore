@@ -1,0 +1,15 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+.kotlin/
+/captures/
+# Clé de signature : jamais dans le dépôt.
+*.jks
+*.keystore
+keystore.properties
+# Captures des tests (régénérées par recordRoborazziDebug).
+/app/screenshots/
+# Mots privés (scan de publication) : jamais dans un dépôt.
+.private-words
